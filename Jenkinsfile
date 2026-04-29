@@ -26,7 +26,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Build stage running..."
-                sh 'echo "Replace this with Maven/Gradle build command"'
+                sh 'echo000 "Replace this with Maven/Gradle build command"'
             }
         }
 
