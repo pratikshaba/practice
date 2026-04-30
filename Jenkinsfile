@@ -27,7 +27,7 @@ pipeline {
             steps {
                 echo "Build stage running..."
                 sh 'echo "Replace this with Maven/Gradle build command"'
-                ec "welcome to the tops technologies pvt ltd "
+                echo "welcome to the tops technologies pvt ltd "
             }
         }
 
